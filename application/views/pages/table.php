@@ -1,0 +1,37 @@
+<table class="table table-stripped table-bordered" id="data">
+        <thead>
+        <th>No</th>
+        <th>Nama</th>
+        <th>Pekerjaan</th>
+        </thead>
+        <tbody>
+        <tr>
+            <td>1</td>
+            <td>a</td>
+            <td>b</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>a</td>
+            <td>b</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>a</td>
+            <td>b</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>a</td>
+            <td>b</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>a</td>
+            <td>b</td>
+        </tr>
+        </tbody>
+        </table>
+        <script type="text/javascript">
+            $('#data').DataTable();
+        </script>
